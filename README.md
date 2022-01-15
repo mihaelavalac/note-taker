@@ -51,6 +51,5 @@ For questions please contact me on: <br/>
 
 :octocat: Github: [mihaelavalac](https://github.com/mihaelavalac) <br>
 ✉️  Email: mihaelavalac@yahoo.com<br/>
-=======
-# Note Taker
+
 
