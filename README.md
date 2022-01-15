@@ -1,3 +1,4 @@
+
   <h1 align="center"> Note Taker <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-blue"> </h1>
 
 ## Description
@@ -39,3 +40,6 @@ For questions please contact me on: <br/>
 
 :octocat: Github: [mihaelavalac](https://github.com/mihaelavalac) <br>
 ✉️ Email: mihaelavalac@yahoo.com<br/>
+=======
+# Note Taker
+
