@@ -2,7 +2,8 @@
 
 ## Description
 
-  <p>You can see the project repository [here](https://github.com/mihaelavalac/note-taker) or you can navigate to the deployed site [here](https://note-taker-mv.herokuapp.com/).</p><br>
+  <p>You can see the project repository <b>[here](https://github.com/mihaelavalac/note-taker)</b></p> 
+  <p>You can navigate to the deployed site <b>[here](https://note-taker-mv.herokuapp.com/)</b></p>
 
   <p><i>The purpose of this application is to allow users to write and save notes so that they can organize their thoughts and keep track of tasks. While working on this project I empowered my fresh gathered knowledge of Express.js and  Node.js.</i><p>
 
