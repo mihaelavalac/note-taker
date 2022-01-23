@@ -1,9 +1,9 @@
 
-  <h1 align="center"> Note Taker <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-blue"> </h1>
+  <h1 align="center"> To Do List <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-blue"> </h1>
 
 ## Description
 
-You can see the project repository <b>[here](https://github.com/mihaelavalac/note-taker)</b>. <br>
+You can see the project repository <b>[here](https://github.com/mihaelavalac/to-do-list)</b>. <br>
 You can navigate to the deployed application <b>[here](https://note-taker-mv.herokuapp.com/)</b>.
 
   <p><i>The purpose of this application is to allow users to write and save notes so that they can organize their thoughts and keep track of tasks. While working on this project I empowered my fresh gathered knowledge of Express.js and  Node.js.</i><p>
