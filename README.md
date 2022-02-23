@@ -45,16 +45,4 @@ To contribute to the project just fork and install it on your computer, add the 
 <b>Current Contributors:</b> <br>
 👪 Mihaela Valac. 
 
-## License
-
-This application is covered by the <b>[GPL-2.0](https://opensource.org/licenses/GPL-2.0)</b> license.
-
-## Questions
-
-For questions, please contact me on: <br/>
-
-:octocat: Github: [mihaelavalac](https://github.com/mihaelavalac) <br>
-✉️  Email: mihaelavalac@yahoo.com<br/>
-![image](https://user-images.githubusercontent.com/69922624/155404380-6569d304-c3fd-4849-843d-b0de03d9d322.png)
-
 
