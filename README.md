@@ -1,5 +1,5 @@
 
-  <h1 align="center"> Mihaela's To Do App <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-blue"> </h1>
+  <h1 align="center"> Mihaela's To Do App <img align="center" src="https://img.shields.io/badge/license-GPL 2.0-red"> </h1>
 
 ## Description
 
