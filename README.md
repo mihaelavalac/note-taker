@@ -43,7 +43,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 To contribute to the project just fork and install it on your computer, add the desired features/changes and push it back to the git. I will review the changes and merge them in the main branch. <br>
 
 <b>Current Contributors:</b> <br>
-👪 Mihaela Valac
+👪 Mihaela Valac. 
 
 ## License
 
