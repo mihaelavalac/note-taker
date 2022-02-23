@@ -76,3 +76,7 @@ body {
   padding: 20px;
   cursor: pointer;
 }
+.bg-one {
+  background-color: #ba4772;
+  color:white;
+}
